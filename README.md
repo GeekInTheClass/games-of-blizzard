@@ -42,4 +42,5 @@ This is a introduction and information of games of blizzard
 
 ##diablo
 1. 악마와 천사 그리고 인간에 관한 갈등을 다루는 서사시
+가나나다ㅏ라
 ##heros of the storm
