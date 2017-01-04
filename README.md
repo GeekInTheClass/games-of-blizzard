@@ -1,4 +1,4 @@
-Games of blizzard
+﻿Games of blizzard
 =================
 This is a introduction and information of games of blizzard
 ——————————————————————————
@@ -17,6 +17,18 @@ This is a introduction and information of games of blizzard
 3. 스타크래프트 2의 경우 3파트로 나눌 수 있다. 자유의 날개, 군단의 심장, 공허의 유산이 있다. 각각 3종족인 테란, 저그, 프로토스가 주이다.
 
 ##warcraft
+![영화 워크래프트: 전쟁의 서막](http://t1.daumcdn.net/brunch/service/user/1U7A/image/5YmYR774qaZ_MWoy_YLf6bryKeU.jpg)
+1. 스타크래프트는 워크래프트의 우주버전으로 시작되었다.
+2. 인간 얼라이언스와 오크 호드의 대립을 그린, 누가봐도 척 알만한 간단한 스토리 라인의 게임이었다.
+3. 이 게임을 바탕으로 만들어 진 것들이 world of warcraft, hearth stone이다.
+4. 블리자드 답게 영화, 소설, 만화 등 다양한 관련 콘텐츠들이 존재한다.
+5. 시리즈로는 아래의 것들이 있다.
+
+> 워크래프트: 오크 앤드 휴먼
+
+> 워크래프트2: 타이드 오브 다크니스
+
+> 워크래프트3: 레인 오브 카오스
 
 ##world of warcraft
 1. pc방에서 종종 나이드신 형님들께서 즐겨하던 게임이다. 당시에는 파격적인 자유도와 기존 워크래프트의 세계관이 사람들을 끌어들였다.
@@ -37,13 +49,8 @@ This is a introduction and information of games of blizzard
 
 > 군단
 
-4. 본작은 아제로스라 명명된 워크래프트 세계에서 벌어지는 여러가지 일이 주요 줄거리로, 불타는 군단, 스컬지, 검은용군단 등의 세력이 아제로스를 침략을 하며, 그 와중에서 얼라이언스와 호드는 계속 싸운다.
-5. 얼라이언스는 인간 종족이며, 호드는 오크와 비슷하게 생긴 종족이다.
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Vista-NYC-empire.JPG/1280px-Vista-NYC-empire.JPG" width="4276” height=“1484”/><br><br>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Vista-NYC-empire.JPG/1280px-Vista-NYC-empire.JPG" width="4276” height=“1484”/><br><br>
 ##diablo
 1. 악마와 천사 그리고 인간에 관한 갈등을 다루는 서사시
 ##heros of the storm
