@@ -22,7 +22,7 @@ This is a introduction and information of games of blizzard
 1. pc방에서 종종 나이드신 형님들께서 즐겨하던 게임이다. 당시에는 파격적인 자유도와 기존 워크래프트의 세계관이 사람들을 끌어들였다.
 2. 워크래프트: 전쟁의 서막이라는 영화도 존재한다. 개봉한지 얼마 되지 않았다. 워너 브라더스에서 제작을 맞아 기대감을 증폭시켰다. 개인적으로 세계관에 대한 묘사와 분장, cg 등 흠 잡을게 없었다. 그러나 흠을 잡아야 한다면 영화 자체가 흠이다.
 3. 시리즈로는 아래의 것들이 있다.
-수정수정수정수정수정
+
 > 월드 오브 워크래프트
 
 > 불타는 성전
@@ -46,5 +46,4 @@ This is a introduction and information of games of blizzard
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Vista-NYC-empire.JPG/1280px-Vista-NYC-empire.JPG" width="4276” height=“1484”/><br><br>
 ##diablo
 1. 악마와 천사 그리고 인간에 관한 갈등을 다루는 서사시
-가나나다ㅏ라나난나나나나
 ##heros of the storm
