@@ -5,6 +5,10 @@ This is a introduction and information of games of blizzard
 ——————————————————————————
 
 ##overwatch
+[오버워치 나무위키](https://namu.wiki/w/%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98)
+
+![오버워치 이미지](http://cfile26.uf.tistory.com/image/270BE841572B57BF2305D8)
+
 1. 현재 한국에서 가장 핫한 게임이다.
 2. 블리자드 사에서 타이탄이라는 거대 프로젝트를 준비하다가 망한 개발자들이 타이탄의 설정과 캐릭터를 참고하여 만들었다.
 3. 평소 팀 포트리스라는 게임에 흥미가 있던 개발자들이 그것과 비슷한 협동 fps를 만들고자 했다.
@@ -13,11 +17,31 @@ This is a introduction and information of games of blizzard
 6. 한국은 fps강국으로 평가받지는 못하는 나라였다. 그러나 오버워치 월드컵에서 한 세트도 내어주지 않고 우승했다.
 
 ##starcraft
-1. 스타크래프트는 1과 2가 있다.
+[스타크래프트 나무위키](https://namu.wiki/w/%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8)
+
+![스타크래프트 이미지](http://cfile3.uf.tistory.com/image/2315523E52B131DA1BA6AA)
+
+1. 세 종족의 우주 전쟁을 소재로 한 워크래프트의 우주버전.
 2. 스타크래프트 2의 경우 매우 긴 시간을 투자했다. 그러나 인기는 스타 1에 비해 적다.
-3. 스타크래프트 2의 경우 3파트로 나눌 수 있다. 자유의 날개, 군단의 심장, 공허의 유산이 있다. 각각 3종족인 테란, 저그, 프로토스가 주이다.
+3. e스포츠를 탄생시킨 RTS의 걸작. 대한민국의 국민게임. 임요환, 콩진호를 아는가? 에너하임에 가면 한국인 사진이 그렇게 많다고....
+4. 다양한 영웅들간의 스토리가 이 전략 게임의 묘미이다. 스타크래프트 2의 경우 완전히 영웅 스토리 중심의 게임이라고 볼 수 있다.
+5. Special thanks에는 매우 알 수 없는 인물과 사건이 많다. 97년 엘니뇨현상, 기네스맥주, 말보로, 마운틴 듀, (심지어)주윤발, 팀 포트리스(개발자들이 자주 즐겼다고 한다.) 등
+6.. 시리즈로는 아래의 것들이 있다
+
+> 스타크래프트(1998)
+
+> 스타크래프트 브루드 워(1998)
+
+> 스타크래프트2 자유의 날개(2010)
+
+> 스타크래프트2 군단의 심장(2013)
+
+> 스타크래프트2 공허의 유산(2015)
+
+> 스타크래프트2 노바 비밀 작전(2016)
 
 ##warcraft
+[워크래프트 나무위키](https://namu.wiki/w/%EC%9B%8C%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8)
 
 ![영화 워크래프트: 전쟁의 서막](http://t1.daumcdn.net/brunch/service/user/1U7A/image/5YmYR774qaZ_MWoy_YLf6bryKeU.jpg)
 
@@ -35,6 +59,7 @@ This is a introduction and information of games of blizzard
 
 ##world of warcraft
 [월드 오브 워크래프트 나무위키](https://namu.wiki/w/%EC%9B%94%EB%93%9C%20%EC%98%A4%EB%B8%8C%20%EC%9B%8C%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8)
+
 ![게임 화면](http://cfile214.uf.daum.net/image/2724F739548CC1981DC558)
 
 1. pc방에서 종종 나이드신 형님들께서 즐겨하던 게임이다. 당시에는 파격적인 자유도와 기존 워크래프트의 세계관이 사람들을 끌어들였다.
@@ -59,6 +84,7 @@ This is a introduction and information of games of blizzard
 
 ##diablo
 [디아블로 나무위키](https://namu.wiki/w/%EB%94%94%EC%95%84%EB%B8%94%EB%A1%9C(%EA%B2%8C%EC%9E%84))
+
 ![디아블로 3](http://cdn.gamemeca.com/gmdata/0000/282/846/130515-risell-dia6.jpg)
 
 1. 악마와 천사 그리고 인간에 관한 갈등을 다루는 비극과 호러의 서사시
