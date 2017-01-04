@@ -1,9 +1,7 @@
-# games-of-blizzard
-
 Games of blizzard
 =================
 This is a introduction and information of games of blizzard
-———————————————————————————————————————————————————————————
+——————————————————————————
 
 #overwatch
 1. 현재 한국에서 가장 핫한 게임이다.
