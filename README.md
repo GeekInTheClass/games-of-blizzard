@@ -40,6 +40,8 @@ This is a introduction and information of games of blizzard
 4. 본작은 아제로스라 명명된 워크래프트 세계에서 벌어지는 여러가지 일이 주요 줄거리로, 불타는 군단, 스컬지, 검은용군단 등의 세력이 아제로스를 침략을 하며, 그 와중에서 얼라이언스와 호드는 계속 싸운다.
 5. 얼라이언스는 인간 종족이며, 호드는 오크와 비슷하게 생긴 종족이다.
 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Vista-NYC-empire.JPG/1280px-Vista-NYC-empire.JPG" width="4276” height=“1484”/><br><br>
 ##diablo
 1. 악마와 천사 그리고 인간에 관한 갈등을 다루는 서사시
 가나나다ㅏ라
