@@ -30,6 +30,8 @@ This is a introduction and information of games of blizzard
 >드레노어의 전쟁군주
 >군단
 이 있다.
+
+<br>아무거나 적겠습니다. 안녕하세요. 아침부터 수업을 듣고있으니 너무 자고싶네요.<br>
 ###hearth stone
 ###diablo
 ###heros of the storm
