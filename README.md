@@ -1,8 +1,8 @@
 # games-of-blizzard
 
-overwatch\n
-starcraft\n
-warcraft\n
+overwatch
+starcraft
+warcraft
 world of warcraft
 diablo
 heros of the storm
