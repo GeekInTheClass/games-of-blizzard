@@ -42,6 +42,8 @@ This is a introduction and information of games of blizzard
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Vista-NYC-empire.JPG/1280px-Vista-NYC-empire.JPG" width="4276” height=“1484”/><br><br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Vista-NYC-empire.JPG/1280px-Vista-NYC-empire.JPG" width="4276” height=“1484”/><br><br>
 ##diablo
 1. 악마와 천사 그리고 인간에 관한 갈등을 다루는 서사시
 가나나다ㅏ라
