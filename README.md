@@ -41,4 +41,5 @@ This is a introduction and information of games of blizzard
 5. 얼라이언스는 인간 종족이며, 호드는 오크와 비슷하게 생긴 종족이다.
 
 ##diablo
+1. 악마와 천사 그리고 인간에 관한 갈등을 다루는 서사시
 ##heros of the storm
