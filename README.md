@@ -5,7 +5,7 @@ This is a introduction and information of games of blizzard
 ——————————————————————————
 
 
-##starcraft
+##Starcraft
 [스타크래프트 나무위키](https://namu.wiki/w/%EC%8A%A4%ED%83%80%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8)
 
 ![스타크래프트 이미지](http://cfile3.uf.tistory.com/image/2315523E52B131DA1BA6AA)
@@ -29,7 +29,7 @@ This is a introduction and information of games of blizzard
 
 > 스타크래프트2 노바 비밀 작전(2016)
 
-##warcraft
+##Warcraft
 [워크래프트 나무위키](https://namu.wiki/w/%EC%9B%8C%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8)
 
 ![영화 워크래프트: 전쟁의 서막](http://t1.daumcdn.net/brunch/service/user/1U7A/image/5YmYR774qaZ_MWoy_YLf6bryKeU.jpg)
@@ -46,7 +46,7 @@ This is a introduction and information of games of blizzard
 
 > 워크래프트3: 레인 오브 카오스
 
-##world of warcraft
+##World Of Warcraft
 [월드 오브 워크래프트 나무위키](https://namu.wiki/w/%EC%9B%94%EB%93%9C%20%EC%98%A4%EB%B8%8C%20%EC%9B%8C%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8)
 
 ![게임 화면](http://cfile214.uf.daum.net/image/2724F739548CC1981DC558)
@@ -71,7 +71,7 @@ This is a introduction and information of games of blizzard
 
 
 
-##diablo
+##Diablo
 [디아블로 나무위키](https://namu.wiki/w/%EB%94%94%EC%95%84%EB%B8%94%EB%A1%9C(%EA%B2%8C%EC%9E%84))
 
 ![디아블로 3](http://cdn.gamemeca.com/gmdata/0000/282/846/130515-risell-dia6.jpg)
@@ -95,7 +95,7 @@ This is a introduction and information of games of blizzard
 
 > 디아블로3 - 강령술사의 귀환(2017)
 
-##heros of the storm
+##Heros Of The Storm
 [히어로즈 오브 더 스톰 나무위키](https://namu.wiki/w/%ED%9E%88%EC%96%B4%EB%A1%9C%EC%A6%88%20%EC%98%A4%EB%B8%8C%20%EB%8D%94%20%EC%8A%A4%ED%86%B0)
 
 ![히어로즈 오브 더 스톰 이미지](http://nimage.dailygame.co.kr/phpwas/restmb_idxmake.php?idx=3&simg=2013110907560126348_20131109081405_1.jpg)
@@ -107,7 +107,7 @@ This is a introduction and information of games of blizzard
 5. 팀플레이가 매우 중요한 게임이다. 한 명이 특출나게 잘한다고 해서 절대 이기지 못한다.
 6. 게임이 매칭되는데 굉장히 긴 시간이 걸린다. 그래서 고급게임이라는 별명이 붙었다. 이후 이 게임의 유저들은 '레스토랑스'라는 별명을 가지게 된다.
 
-##overwatch
+##Overwatch
 [오버워치 나무위키](https://namu.wiki/w/%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98)
 
 ![오버워치 이미지](http://cfile26.uf.tistory.com/image/270BE841572B57BF2305D8)
@@ -118,9 +118,10 @@ This is a introduction and information of games of blizzard
 4. 역시 블리자드 답게 트레일러부터 장난 없다.
 5. 각 국가별 캐릭터를 두어 흥미가 가게 만들었다.
 6. 한국은 fps강국으로 평가받지는 못하는 나라였다. 그러나 오버워치 월드컵에서 한 세트도 내어주지 않고 우승했다.
-7. 오버워치는 이 게임 바로 뒤에 출시되었기 때문에 히어로즈 오브더 스톰처럼 매칭에 오랜시간이 걸릴까 두려워 한 유저들이 고급시계라는 별명을 붙여주었다.  
+7. 오버워치는 이 게임 바로 뒤에 출시되었기 때문에 히어로즈 오브더 스톰처럼 매칭에 오랜시간이 걸릴까 두려워 한 유저들이 고급시계라는 별명을 붙여주었다.
+8. 기본 패키지(45,000원)와 오리진 에디션(69,000원)이 있다.
 
-##hearthstone
+##Hearthstone
 [하스스톤 나무위키](https://namu.wiki/w/하스스톤)
 
 ![하스스톤 이미지](https://image-proxy.namuwikiusercontent.com/r/http%3A%2F%2Fkr.battle.net%2Fhearthstone%2Fstatic%2Fimages%2Fmedia%2Fwallpapers%2Fhearthstone_wallpaper1920x1080.jpg)
