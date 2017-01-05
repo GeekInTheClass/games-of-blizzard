@@ -1,4 +1,4 @@
-﻿Games of blizzard
+Games of blizzard
 =================
 This is a introduction and information of games of blizzard
 
@@ -118,4 +118,12 @@ This is a introduction and information of games of blizzard
 4. 역시 블리자드 답게 트레일러부터 장난 없다.
 5. 각 국가별 캐릭터를 두어 흥미가 가게 만들었다.
 6. 한국은 fps강국으로 평가받지는 못하는 나라였다. 그러나 오버워치 월드컵에서 한 세트도 내어주지 않고 우승했다.
-7. 오버워치는 이 게임 바로 뒤에 출시되었기 때문에 히어로즈 오브더 스톰처럼 매칭에 오랜시간이 걸릴까 두려워 한 유저들이 고급시계라는 별명을 붙여주었다.
+7. 오버워치는 이 게임 바로 뒤에 출시되었기 때문에 히어로즈 오브더 스톰처럼 매칭에 오랜시간이 걸릴까 두려워 한 유저들이 고급시계라는 별명을 붙여주었다.  
+
+##hearthstone
+[하스스톤 나무위키](https://namu.wiki/w/하스스톤)
+
+![하스스톤 이미지](https://image-proxy.namuwikiusercontent.com/r/http%3A%2F%2Fkr.battle.net%2Fhearthstone%2Fstatic%2Fimages%2Fmedia%2Fwallpapers%2Fhearthstone_wallpaper1920x1080.jpg)
+
+1. 월드 오브 워크래프트의 세계관을 따르고 있다.  
+2. 다양한 플랫폼을 지원한다.  
