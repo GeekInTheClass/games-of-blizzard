@@ -10,6 +10,8 @@ This is a introduction and information of games of blizzard
 
 ![스타크래프트 이미지](http://cfile3.uf.tistory.com/image/2315523E52B131DA1BA6AA)
 
+![스타크래프트 스크린 샷](http://cfile1.uf.tistory.com/image/2667273C5586EA9C334D2B)
+
 1. 세 종족의 우주 전쟁을 소재로 한 워크래프트의 우주버전.
 2. 스타크래프트 2의 경우 매우 긴 시간을 투자했다. 그러나 인기는 스타 1에 비해 적다.
 3. e스포츠를 탄생시킨 RTS의 걸작. 대한민국의 국민게임. 임요환, 콩진호를 아는가? 에너하임에 가면 한국인 사진이 그렇게 많다고....
@@ -158,6 +160,7 @@ This is a introduction and information of games of blizzard
 [디아블로 나무위키](https://namu.wiki/w/%EB%94%94%EC%95%84%EB%B8%94%EB%A1%9C(%EA%B2%8C%EC%9E%84))
 
 ![디아블로 3](http://cdn.gamemeca.com/gmdata/0000/282/846/130515-risell-dia6.jpg)
+![](http://upload2.inven.co.kr/upload/2015/01/11/bbs/i3866215867.jpg)
 
 1. 악마와 천사 그리고 인간에 관한 갈등을 다루는 비극과 호러의 서사시
 2. 이전의 RPG와 달리 던전을 탐험하며 돈과 아이템을 모으고 최종보스를 무찌르는 것에만 신경쓰면 되는 심플한 구성.
@@ -183,6 +186,9 @@ This is a introduction and information of games of blizzard
 
 ![히어로즈 오브 더 스톰 이미지](http://nimage.dailygame.co.kr/phpwas/restmb_idxmake.php?idx=3&simg=2013110907560126348_20131109081405_1.jpg)
 
+![](http://cfile9.uf.tistory.com/image/2751763656DFF72D202080)
+왼쪽 인물은 스타크래프트의 주인공 짐 레이너, 가운데 캐릭터는 오버워치의 트레이서, 오른쪽 캐릭터는 월드 오브 워크래프트의 실바나스.
+
 1. 블리자드 엔터테인먼트에서 제작한 스타크래프트 2 엔진 기반의 AOS게임.
 2. 블리자드 세계관 내에 등장하는 영웅들이 한 곳에 모이는 올스타 게임이다.
 3. 히어로즈에는 여타 MOBA 게임들과 유사한 탱딜힐 역할이 있으며, '전문가'라는 이색적인 역할군이 있다.
@@ -194,6 +200,13 @@ This is a introduction and information of games of blizzard
 [오버워치 나무위키](https://namu.wiki/w/%EC%98%A4%EB%B2%84%EC%9B%8C%EC%B9%98)
 
 ![오버워치 이미지](http://cfile26.uf.tistory.com/image/270BE841572B57BF2305D8)
+
+
+![](https://blzgdapipro-a.akamaihd.net/media/screenshot/hanzo-screenshot-001.jpg)
+
+그의 이름은 한조이다. 그의 이름을 기억하라.
+
+![](http://www.index28s.com/files/attach/images/108/088/007/bdc72f079a55c88fa30e34ad2e1e21ad.jpg)
 
 1. 현재 한국에서 가장 핫한 게임이다.
 2. 블리자드 사에서 타이탄이라는 거대 프로젝트를 준비하다가 망한 개발자들이 타이탄의 설정과 캐릭터를 참고하여 만들었다.
@@ -209,5 +222,10 @@ This is a introduction and information of games of blizzard
 
 ![하스스톤 이미지](https://image-proxy.namuwikiusercontent.com/r/http%3A%2F%2Fkr.battle.net%2Fhearthstone%2Fstatic%2Fimages%2Fmedia%2Fwallpapers%2Fhearthstone_wallpaper1920x1080.jpg)
 
+![](http://upload.inven.co.kr/upload/2014/01/14/bbs/i0827329882.png)
+
+
 1. 월드 오브 워크래프트의 세계관을 따르고 있다.  
-2. 다양한 플랫폼을 지원한다.  
+2. '하스스톤(Hearthstone)'은 본디 MMORPG 월드 오브 워크래프트의 기본 아이템인 '귀환석'을 뜻한다. 이 귀환석을 사용하면 시간과 장소를 불문하고 자신이 지정한 여관으로 돌아갈 수 있는데, 이렇게 언제든 돌아올 수 있고 마치 진짜 여관 안에 있는 것처럼 따뜻하고 안락한 느낌을 주는 게임을 만들어보자는 의미로 이름을 그렇게 지었다고.
+3. 아이폰, 안드로이드 모바일 기기로는 2015년 4월 출시되었다. 발열 및 배터리 과다 소모 등의 문제점이 지적되었고 데이터 소모량, 인터페이스 구성은 호평을 받는 중. 휴대폰의 사양이 좋지 않을 때 게임 실행이 안 되거나, 다운로드 중 오류가 나는 경우가 나타난다고 한다. 일부 버전에선 홈 버튼이 짤리거나 글자들이 작게 보이는 불편함도 있다. 대부분의 스마트폰에서 잘 돌아간다. 모바일 버전은 "폰스스톤" 혹은 "하스스폰"이라는 별명이 붙었다.
+4. 특이하게도 많은 카드 게임과는 달리 카드를 뽑지 못했을 때 즉각적인 덱사는 없다. 정확히는 덱에 카드가 0장이 되어 뽑을 카드가 없어도 패배하지는 않는다. 대신 이후 카드를 뽑아야 할 때마다 '탈진 카드'가 대신 나와서 영웅의 생명력이 감소하게 된다.
