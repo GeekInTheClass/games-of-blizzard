@@ -31,7 +31,17 @@ This is a introduction and information of games of blizzard
 
 ##Starcraft2 - Wings of liberty
 
-![자유의 날개](https://namu.wiki/w/%ED%8C%8C%EC%9D%BC:attachment/StarCraft_II_-_Box_Art.jpg)
+![자유의 날개](http://cfile22.uf.tistory.com/image/1654EB234C62BB2131DE2A)
+
+자유의 날개 포스터
+
+![게임플레이 화면](http://cfile3.uf.tistory.com/image/1455044650652E6A092CBF)
+
+자유의 날개 스크린 샷
+
+![게임화면](http://game.donga.com/images/news_images_s/star081010_005.jpg)
+
+자유의 날개 게임 화면
 
 1. 스타크래프트의 1998년 이후 약 12년 만의 후속작이자 스타크래프트2 3부작의 첫 번째 작품.
 2. 초기에는 12년 만의 후속작이라고 하여 흥행여부에 많은 논란이 있었으나, 유저들과 웹진들의 찬사를 받으며 흥행에 대성공했다.
@@ -42,7 +52,9 @@ This is a introduction and information of games of blizzard
 
 ##Starcraft2 - Heart of the swarm
 
-![군단의 심장](https://namu.wiki/w/%ED%8C%8C%EC%9D%BC:Heartoftheswarm_SC2_Cover.jpg)
+![군단의 심장](http://file.thisisgame.com/upload/board/2013/03/26/20130326152603_8460.jpg)
+
+![군단의 심장 스크린 샷](https://i.ytimg.com/vi/qStRYrJUMrI/hqdefault.jpg)
 
 1. 외국에서는 Heart of the Swarm 이라서 H.o.t.S라고 부른다. 한국에서는 줄여서 '군심'으로 부른다
 2. 스타1의 임무들처럼 단순 유닛생산, 섬멸만을 지향하는 것이 아니라 프로토스 함선에 침입하여 감염을 시키는 임무, 케리건을 조종하여 RPG를 하는 느낌을 주는 임무 등 자유의 날개에 비해서 RPG스러운 맛이 느껴지는 여러가지 색다른 미션들을 통하여 유저들의 흥미를 증폭 시켰다
@@ -52,7 +64,9 @@ This is a introduction and information of games of blizzard
 
 ##Starcraft2 - Legacy of the void
 
-![공허의 유산](https://namu.wiki/w/%ED%8C%8C%EC%9D%BC:sc2_3_postyer.jpg)
+![공허의 유산](http://cfile8.uf.tistory.com/image/263F8C4955D31FEB1E674C)
+
+![공허의 유산 스크린 샷](http://cfile8.uf.tistory.com/image/262BF93E55F66D5719F934)
 
 1. 2015년 11월 10일 발매되었고 자유의 날개나 군단의 심장이 없어도 플레이가 가능한 독립 확장팩(스탠드 얼론)이다.
 2. '공허의 유산' 의 의미를 간략하게 해석 하자면 공허를 다루던 자가 준 희망이라고 보면 된다. 전작들과 마찬가지로 주인공인 아르타니스를 뜻하기도 하는데, 그 희망을 남긴 대상이 아르타니스이기 때문.
@@ -60,7 +74,6 @@ This is a introduction and information of games of blizzard
 4. 마지막 확장팩인 만큼 기대와 우려가 엇갈렸다. 호평과 비판 부분은 한국과 해외 게이머들의 시각 차이가 여럿 있는데 한국에서 문제점으로 지적하고 있는 게임 속도나 지나치게 어려운 접근 난이도 등의 문제는 해외에서는 오히려 그렇게 해 달라고 요청이 들어오고 있는 상황이라고 한다
 5. OST가 훌륭한 블리자드 게임 중에서도 역대급 퀄리티를 자랑한다는 평가가 많다. 상대적으로 스타1(특히 테란 테마)에 비해 뇌리에 깊숙히 꽃히는 트랙이 없다고 평가받았던 스타2 시리즈였지만, 공허의 유산 OST는 전작을 뛰어넘는 웅장함과 비장함, 절망스러움과 전장의 치열함을 제대로 표현해냈다.
 6. 공허의 유산 출시 이후에도 스토리는 계속될 것이나 어떻게 만들지는 정하지 않았다고 밝혔다. RTS로 스타크래프트 3가 나올지, 월드 오브 워크래프트처럼 MMORPG로 갈지, 아니면 하스스톤처럼 캐주얼한 게임으로 만들지 전혀 정해진 바가 없다는 것이다.
-
 
 
 ##Warcraft
@@ -82,7 +95,8 @@ This is a introduction and information of games of blizzard
 
 ##Warcraft: Orc & Humans
 
-![](https://namu.wiki/w/%ED%8C%8C%EC%9D%BC:attachment/Warcraft_Orcs_Humans.jpg)
+![](http://cfs9.tistory.com/image/20/tistory/2008/05/17/15/38/482e7d79de7b0)
+![](http://www.tooli.co.kr/files/attach/images/80/228/473/10517be65e818eede8112895169b4449.jpg)
 
 1. 블리자드 엔터테인먼트 최초의 RTS이자 블리자드 최초의 원조히트작 게임 시리즈인 워크래프트 시리즈의 첫 작품이며, 오크와 인간의 첫 충돌(1차 대전쟁)을 다룬 작품이다.
 2. 출시 직후, 듄 2를 베꼈다고 악평을 들었다. 당시 듄2는 거의 최초의 RTS여서 다른 RTS 후발 주자들은 듄2를 참고할 수 밖에 없었기 때문이다.
@@ -92,6 +106,7 @@ This is a introduction and information of games of blizzard
 ##Warcraft: Tides of Darkness
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Warcraft-2-Tides-Of-Darkness-Pc.jpg/250px-Warcraft-2-Tides-Of-Darkness-Pc.jpg)
+![](http://pds.dnavi.info/files/attach/images/114/87300/warcraft%202.jpg)
 
 1. 당시만 해도 많지 않았던 640x480이라는 고해상도 그래픽을 채택했고, 프리렌더링한 CG를 다시 다듬어 건물과 유닛 그래픽으로 사용한 정교한 비주얼을 보여주었다
 2. 해전/공중전 유닛이 추가되고 어택땅 기능, 9명 부대 기능, 3가지로 세분화된 자원 등 전체적으로 굉장히 심화된 시스템을 갖게 되어 게임이 아주 재밌어졌다.
@@ -102,8 +117,9 @@ This is a introduction and information of games of blizzard
 
 ##Warcraft: Reign of Chaos
 
-![](https://namu.wiki/w/%ED%8C%8C%EC%9D%BC:attachment/Warcraft3.jpg)
+![](http://cfile28.uf.tistory.com/image/224D9D38519846DD1831CE)
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Warcraftiii-frozen-throne-boxcover.jpg/250px-Warcraftiii-frozen-throne-boxcover.jpg)
+![](http://timetree.zumst.com/2015/06/10/10/1597939e99264aa3a31241a82b45f405.jpg)
 
 1. 본편인 워크래프트 III: 레인 오브 카오스와 확장팩인 워크래프트 III: 프로즌 쓰론으로 이루어져 있다. 본편은 2002년 7월 3일, 확장팩은 2003년 7월 1일 발매.
 2. RTS와 RPG가 융합된 독특한 시스템과 탄탄한 완성도를 보여주었고, 세계적으로 높은 판매고를 올렸으며, 2016년에도 꾸준히 대회가 열리는 롱런 게임이다.
@@ -115,6 +131,7 @@ This is a introduction and information of games of blizzard
 ##World Of Warcraft
 [월드 오브 워크래프트 나무위키](https://namu.wiki/w/%EC%9B%94%EB%93%9C%20%EC%98%A4%EB%B8%8C%20%EC%9B%8C%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8)
 
+![](http://cfile22.uf.tistory.com/image/2231323852A3286C2A9075)
 ![게임 화면](http://cfile214.uf.daum.net/image/2724F739548CC1981DC558)
 
 1. pc방에서 종종 나이드신 형님들께서 즐겨하던 게임이다. 당시에는 파격적인 자유도와 기존 워크래프트의 세계관이 사람들을 끌어들였다.
